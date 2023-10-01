@@ -1,4 +1,5 @@
 # DumbMathLibrary
+In settings.gradle:
 ```kotlin
 dependencyResolutionManagement {
     repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
@@ -8,6 +9,7 @@ dependencyResolutionManagement {
     }
 }
 ```
+In build.gradle
 ```groovy
 implementation 'com.github.ldthunder:DumbMathLibrary:1.3'
 ```
