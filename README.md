@@ -2,7 +2,6 @@
 In settings.gradle:
 ```kotlin
 dependencyResolutionManagement {
-    ...
     repositories {
         ...
         maven { url "https://jitpack.io" }
