@@ -9,7 +9,7 @@ dependencyResolutionManagement {
     }
 }
 ```
-In build.gradle
+In build.gradle:
 ```groovy
 implementation 'com.github.ldthunder:DumbMathLibrary:1.3'
 ```
