@@ -1,4 +1,5 @@
 # DumbMathLibrary
+```kotlin
 dependencyResolutionManagement {
     repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
     repositories {
@@ -6,5 +7,7 @@ dependencyResolutionManagement {
         maven { url "https://jitpack.io" }
     }
 }
-
+```
+```groovy
 implementation 'com.github.ldthunder:DumbMathLibrary:1.3'
+```
